@@ -46,7 +46,7 @@ urls = [
 ]
 
 # Search terms
-search_terms = ["அன்னபூரணி", "அனுஷ்யா"]
+search_terms = ["வன பாரதி ராஜா"]
 
 # Function to extract links from a single page
 def extract_links(url):
