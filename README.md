@@ -1,4 +1,4 @@
-# name-scraper
+# Web scraper to find a name from the voter list
 
 ## Libraries 
 
